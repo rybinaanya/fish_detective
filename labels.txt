@@ -1,0 +1,118 @@
+LABELS
+SEPARATOR COMMA
+DATA
+KU168619,Tuna (Bluefin)
+KU168620,Tuna (Yellowfin)
+KU168621,Yellowfin tuna
+KU168629,Yellowfin tuna
+KU168630,Tuna
+KU168633,Yellowfin tuna
+KU168634,Yellowfin tuna
+KU168636,Tuna*
+KU168638,Tuna
+KU168639,Tuna
+KU168652,Tuna*
+KU168653,Tuna (Spicy)
+KU168654,Yellowfin tuna
+KU168660,Tuna*
+KU168661,Tuna
+KU168657,Tuna
+KU168647,Yellowfin tuna
+KU168662,Yellowfin tuna
+KU168649,Yellowfin tuna
+KU168644,Yellowfin tuna
+KU168623,Yellowfin tuna
+KU168643,Yellowfin tuna
+KU168646,Atlantic Bluefin tuna
+KU168632,Yellowfin tuna
+KU168622,Yellowfin tuna
+KU168627,Yellowfin tuna
+KU168628,Yellowfin tuna
+KU168656,Bigeye tuna
+KU168645,Yellowfin tuna
+KU168648,Yellowfin tuna
+KU168625,Tuna (Yellowfin)
+KU168637,Yellowfin tuna
+KU168642,Yellowfin tuna
+KU168635,Tuna
+KU168714,Mackerel
+KU168719,Mackerel
+KU168720,Mackerel
+KU168717,Mackerel
+KU168718,Mackerel
+KU168713,Mackerel
+KU168716,Mackerel
+KU168715,Mackerel
+KU168727,King Fish (Tasmanian)
+KU168726,King Fish
+KU168641,Tuna
+KU168640,Tuna
+KU168706,Yellowtail
+KU168702,Japanese amberjack
+KU168650,Tuna*
+KU168703,Yellowtail
+KU168705,Yellowtail
+KU168711,Japanese amberjack
+KU168712,Japanese amberjack
+KU168710,Japanese amberjack
+KU168701,Yellowtail
+KU168704,Yellowtail
+KU168707,Japanese amberjack
+KU168708,Yellowtail
+KU168709,Yellowtail
+KU168724,Swordfish
+KU168728,Barramundi
+KU168669,American eel
+KU168678,Eel
+KU168676,Eel
+KU168672,European eel
+KU168679,European eel
+KU168681,European eel
+KU168683,European eel
+KU168664,European eel
+KU168674,Eel
+KU168675,Eel (Freshwater)
+KU168680,European eel
+KU168668,European eel
+KU168665,Eel
+KU168684,European eel
+KU168666,Giant mottled eel
+KU168677,Eel
+KU168671,Japanese eel
+KU168670,Japanese eel
+KU168667,Japanese eel
+KU168673,Eela
+KU168687,European seabass
+KU168731,Flying Fish eggs
+KU168722,Seabream
+KU168723,Seabream
+KU168721,Gilthead bream
+KU168732,Snapper
+KU168729,Black Cod
+KU168691,European seabass
+KU168692,European seabass
+KU168693,European seabass
+KU168688,European seabass
+KU168700,European seabass
+KU168696,European seabass
+KU168685,Seabass*
+KU168694,European seabass
+KU168698,European seabass
+KU168686,European seabass
+KU168695,European seabass
+KU168697,European seabass
+KU168699,Seabass*
+KU168689,Seabass
+KU168690,Seabass
+KU168725,Swordfish
+KU168658,Atlantic Bluefin tuna
+KU168615,Albacore
+KU168617,Tuna (Albacore)
+KU168616,Albacore
+KU168624,Tuna (Yellowfin)
+KU168651,Bigeye tuna
+KU168631,Bigeye tuna
+KU168659,Yellowfin tuna
+KU168663,Tuna
+KU168618,Tuna (Bluefin)
+KU168655,Atlantic Bluefin tuna

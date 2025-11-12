@@ -1,0 +1,116 @@
+	sample_id	accession	claimed_name	sample_type	restaurant	true_species	city	display_name	restaurant_color
+0	S001	KU168615	Tuna (Albacore)	reference	REFERENCE	Albacore	Bristol	Albacore	#FFF1CB
+1	S002	KU168616	Tuna (Albacore)	reference	REFERENCE	Albacore	Exeter	Albacore	#FFF1CB
+2	S003	KU168617	Tuna (Albacore)	restaurant	PimpyShrimpy	Albacore	London	Tuna (Albacore)	#C2E2FA
+3	S004	KU168618	Tuna (Bluefin)	restaurant	PimpyShrimpy	Atlantic Bluefin tuna	Bristol	Tuna (Bluefin)	#C2E2FA
+4	S005	KU168619	Tuna (Bluefin)	restaurant	RedPriceSushi	Yellowfin tuna	Liverpool	Tuna (Bluefin)	#B7A3E3
+5	S006	KU168620	Tuna (Yellowfin)	restaurant	PimpyShrimpy	Yellowfin tuna	Bristol	Tuna (Yellowfin)	#C2E2FA
+6	S007	KU168621	Tuna (Yellowfin)	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+7	S008	KU168622	Tuna (Yellowfin)	reference	REFERENCE	Yellowfin tuna	Exeter	Yellowfin tuna	#FFF1CB
+8	S009	KU168623	Tuna (Yellowfin)	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+9	S010	KU168624	Tuna (Yellowfin)	restaurant	SwagRoll	Bigeye tuna	Manchester	Tuna (Yellowfin)	#B77466
+10	S011	KU168625	Tuna (Yellowfin)	restaurant	PimpyShrimpy	Yellowfin tuna	Manchester	Tuna (Yellowfin)	#C2E2FA
+11	S012	KU168627	Tuna	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+12	S013	KU168628	Tuna	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+13	S014	KU168629	Tuna	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+14	S015	KU168630	Tuna	restaurant	SwagRoll	Yellowfin tuna	Bristol	Tuna	#B77466
+15	S016	KU168631	Tuna	reference	REFERENCE	Bigeye tuna	Bristol	Bigeye tuna	#FFF1CB
+16	S017	KU168632	Tuna	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+17	S018	KU168633	Tuna	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+18	S019	KU168634	Tuna	reference	REFERENCE	Yellowfin tuna	Bristol	Yellowfin tuna	#FFF1CB
+19	S020	KU168635	Tuna	restaurant	RedPriceSushi	Yellowfin tuna	Exeter	Tuna	#B7A3E3
+20	S021	KU168636	Tuna*	restaurant	PimpyShrimpy	Yellowfin tuna	Liverpool	Tuna*	#C2E2FA
+21	S022	KU168637	Tuna	reference	REFERENCE	Yellowfin tuna	Liverpool	Yellowfin tuna	#FFF1CB
+22	S023	KU168638	Tuna	restaurant	PimpyShrimpy	Yellowfin tuna	London	Tuna	#C2E2FA
+23	S024	KU168639	Tuna	restaurant	PimpyShrimpy	Yellowfin tuna	London	Tuna	#C2E2FA
+24	S025	KU168640	Tuna	restaurant	RedPriceSushi	Yellowtail amberjack	London	Tuna	#B7A3E3
+25	S026	KU168641	Tuna	restaurant	SwagRoll	Yellowtail amberjack	London	Tuna	#B77466
+26	S027	KU168642	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+27	S028	KU168643	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+28	S029	KU168644	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+29	S030	KU168645	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+30	S031	KU168646	Tunaa	reference	REFERENCE	Atlantic Bluefin tuna	London	Atlantic Bluefin tuna	#FFF1CB
+31	S032	KU168647	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+32	S033	KU168648	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+33	S034	KU168649	Tuna	reference	REFERENCE	Yellowfin tuna	London	Yellowfin tuna	#FFF1CB
+34	S035	KU168650	Tuna*	restaurant	PimpyShrimpy	Japanese amberjack	Manchester	Tuna*	#C2E2FA
+35	S036	KU168651	Tuna	reference	REFERENCE	Bigeye tuna	Manchester	Bigeye tuna	#FFF1CB
+36	S037	KU168652	Tuna*	restaurant	PimpyShrimpy	Yellowfin tuna	Manchester	Tuna*	#C2E2FA
+37	S038	KU168653	Tuna (Spicy)	restaurant	PimpyShrimpy	Yellowfin tuna	Manchester	Tuna (Spicy)	#C2E2FA
+38	S039	KU168654	Tuna	reference	REFERENCE	Yellowfin tuna	Manchester	Yellowfin tuna	#FFF1CB
+39	S040	KU168655	Tuna	reference	REFERENCE	Atlantic Bluefin tuna	Manchester	Atlantic Bluefin tuna	#FFF1CB
+40	S041	KU168656	Tuna	reference	REFERENCE	Bigeye tuna	Manchester	Bigeye tuna	#FFF1CB
+41	S042	KU168657	Tuna	restaurant	PimpyShrimpy	Yellowfin tuna	Manchester	Tuna	#C2E2FA
+42	S043	KU168658	Tuna	reference	REFERENCE	Atlantic Bluefin tuna	Manchester	Atlantic Bluefin tuna	#FFF1CB
+43	S044	KU168659	Tuna	reference	REFERENCE	Yellowfin tuna	Manchester	Yellowfin tuna	#FFF1CB
+44	S045	KU168660	Tuna*	restaurant	PimpyShrimpy	Yellowfin tuna	Manchester	Tuna*	#C2E2FA
+45	S046	KU168661	Tuna	restaurant	SwagRoll	Yellowfin tuna	Manchester	Tuna	#B77466
+46	S047	KU168662	Tuna	reference	REFERENCE	Yellowfin tuna	Newcastle	Yellowfin tuna	#FFF1CB
+47	S048	KU168663	Tuna	restaurant	PimpyShrimpy	Yellowfin tuna	Newcastle	Tuna	#C2E2FA
+48	S049	KU168664	Eel	reference	REFERENCE	European eel	Bristol	European eel	#FFF1CB
+49	S050	KU168665	Eel	restaurant	PimpyShrimpy	European eel	Bristol	Eel	#C2E2FA
+50	S051	KU168666	Eel	reference	REFERENCE	Giant mottled eel	Bristol	Giant mottled eel	#FFF1CB
+51	S052	KU168667	Eel	reference	REFERENCE	Japanese eel	Exeter	Japanese eel	#FFF1CB
+52	S053	KU168668	Eel	reference	REFERENCE	European eel	Liverpool	European eel	#FFF1CB
+53	S054	KU168669	Eel	reference	REFERENCE	American eel	Liverpool	American eel	#FFF1CB
+54	S055	KU168670	Eel	reference	REFERENCE	Japanese eel	Liverpool	Japanese eel	#FFF1CB
+55	S056	KU168671	Eel (Freshwater)a	reference	REFERENCE	Japanese eel	London	Japanese eel	#FFF1CB
+56	S057	KU168672	Eel (grilled)	reference	REFERENCE	European eel	London	European eel	#FFF1CB
+57	S058	KU168673	Eela	restaurant	PimpyShrimpy	Japanese eel	London	Eela	#C2E2FA
+58	S059	KU168674	Eel	restaurant	RedPriceSushi	European eel	Manchester	Eel	#B7A3E3
+59	S060	KU168675	Eel (Freshwater)	restaurant	PimpyShrimpy	European eel	Manchester	Eel (Freshwater)	#C2E2FA
+60	S061	KU168676	Eel	restaurant	RedPriceSushi	European eel	Manchester	Eel	#B7A3E3
+61	S062	KU168677	Eel	restaurant	SwagRoll	Japanese eel	Manchester	Eel	#B77466
+62	S063	KU168678	Eel	restaurant	RedPriceSushi	American eel	Manchester	Eel	#B7A3E3
+63	S064	KU168679	Eel	reference	REFERENCE	European eel	Manchester	European eel	#FFF1CB
+64	S065	KU168680	Eel	reference	REFERENCE	European eel	Manchester	European eel	#FFF1CB
+65	S066	KU168681	Eel*	reference	REFERENCE	European eel	Manchester	European eel	#FFF1CB
+66	S067	KU168683	Eel	reference	REFERENCE	European eel	Newcastle	European eel	#FFF1CB
+67	S068	KU168684	Eel	reference	REFERENCE	European eel	Newcastle	European eel	#FFF1CB
+68	S069	KU168685	Seabass*	restaurant	PimpyShrimpy	European seabass	Liverpool	Seabass*	#C2E2FA
+69	S070	KU168686	Seabass*	reference	REFERENCE	European seabass	Liverpool	European seabass	#FFF1CB
+70	S071	KU168687	Seabassa	reference	REFERENCE	European seabass	Liverpool	European seabass	#FFF1CB
+71	S072	KU168688	Seabass*	reference	REFERENCE	European seabass	London	European seabass	#FFF1CB
+72	S073	KU168689	Seabass	restaurant	RedPriceSushi	Japanese seabass	London	Seabass	#B7A3E3
+73	S074	KU168690	Seabass	restaurant	SwagRoll	Japanese seabass	London	Seabass	#B77466
+74	S075	KU168691	Seabass*	reference	REFERENCE	European seabass	London	European seabass	#FFF1CB
+75	S076	KU168692	Seabass*	reference	REFERENCE	European seabass	London	European seabass	#FFF1CB
+76	S077	KU168693	Seabass*	reference	REFERENCE	European seabass	London	European seabass	#FFF1CB
+77	S078	KU168694	Seabass*	reference	REFERENCE	European seabass	Manchester	European seabass	#FFF1CB
+78	S079	KU168695	Seabass*	reference	REFERENCE	European seabass	Manchester	European seabass	#FFF1CB
+79	S080	KU168696	Seabass*	reference	REFERENCE	European seabass	Manchester	European seabass	#FFF1CB
+80	S081	KU168697	Seabass*	reference	REFERENCE	European seabass	Manchester	European seabass	#FFF1CB
+81	S082	KU168698	Seabass*	reference	REFERENCE	European seabass	Manchester	European seabass	#FFF1CB
+82	S083	KU168699	Seabass*	restaurant	RedPriceSushi	European seabass	Manchester	Seabass*	#B7A3E3
+83	S084	KU168700	Seabass*	reference	REFERENCE	European seabass	Manchester	European seabass	#FFF1CB
+84	S085	KU168701	Yellowtail	restaurant	RedPriceSushi	Japanese amberjack	Bristol	Yellowtail	#B7A3E3
+85	S086	KU168702	Yellowtail	reference	REFERENCE	Japanese amberjack	Bristol	Japanese amberjack	#FFF1CB
+86	S087	KU168703	Yellowtail	restaurant	PimpyShrimpy	Japanese amberjack	Bristol	Yellowtail	#C2E2FA
+87	S088	KU168704	Yellowtail	restaurant	SwagRoll	Japanese amberjack	Liverpool	Yellowtail	#B77466
+88	S089	KU168705	Yellowtail	restaurant	RedPriceSushi	Japanese amberjack	London	Yellowtail	#B7A3E3
+89	S090	KU168706	Yellowtail	restaurant	RedPriceSushi	Yellowtail amberjack	London	Yellowtail	#B7A3E3
+90	S091	KU168707	Yellowtail	reference	REFERENCE	Japanese amberjack	London	Japanese amberjack	#FFF1CB
+91	S092	KU168708	Yellowtail	restaurant	SwagRoll	Japanese amberjack	London	Yellowtail	#B77466
+92	S093	KU168709	Yellowtail	restaurant	RedPriceSushi	Japanese amberjack	London	Yellowtail	#B7A3E3
+93	S094	KU168710	Yellowtail	reference	REFERENCE	Japanese amberjack	London	Japanese amberjack	#FFF1CB
+94	S095	KU168711	Yellowtail	reference	REFERENCE	Japanese amberjack	Manchester	Japanese amberjack	#FFF1CB
+95	S096	KU168712	Yellowtail	reference	REFERENCE	Japanese amberjack	Manchester	Japanese amberjack	#FFF1CB
+96	S097	KU168713	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+97	S098	KU168714	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+98	S099	KU168715	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+99	S100	KU168716	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+100	S101	KU168717	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+101	S102	KU168718	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+102	S103	KU168719	Mackerel	reference	REFERENCE	Mackerel	London	Mackerel	#FFF1CB
+103	S104	KU168720	Mackerel	restaurant	PimpyShrimpy	Mackerel	London	Mackerel	#C2E2FA
+104	S105	KU168721	Seabream	reference	REFERENCE	Gilthead bream	Manchester	Gilthead bream	#FFF1CB
+105	S106	KU168722	Seabream	restaurant	PimpyShrimpy	Gilthead bream	Manchester	Seabream	#C2E2FA
+106	S107	KU168723	Seabream	restaurant	SwagRoll	Gilthead bream	Manchester	Seabream	#B77466
+107	S108	KU168724	Swordfish	restaurant	PimpyShrimpy	Blue marlin	Liverpool	Swordfish	#C2E2FA
+108	S109	KU168725	Swordfish	restaurant	RedPriceSushi	Swordfish	Newcastle	Swordfish	#B7A3E3
+109	S110	KU168726	King Fish	restaurant	RedPriceSushi	Yellowtail amberjack	London	King Fish	#B7A3E3
+110	S111	KU168727	King Fish (Tasmanian)	restaurant	SwagRoll	Yellowtail amberjack	Manchester	King Fish (Tasmanian)	#B77466
+111	S112	KU168728	Barramundia	reference	REFERENCE	Barramundi	Manchester	Barramundi	#FFF1CB
+112	S113	KU168729	Black Cod	restaurant	SwagRoll	Sablefish	Manchester	Black Cod	#B77466
+113	S114	KU168731	Flying Fish eggs	restaurant	RedPriceSushi	Herring	Liverpool	Flying Fish eggs	#B7A3E3
+114	S115	KU168732	Snapper	restaurant	RedPriceSushi	Gilthead bream	London	Snapper	#B7A3E3
